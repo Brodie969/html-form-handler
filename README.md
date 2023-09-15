@@ -1,4 +1,4 @@
-# HTML Form Handler
+# brodie969/html-form-handler
 
 A snippet of JavaScript to handle the data from a HTML `<form>`.
 
